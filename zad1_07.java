@@ -76,7 +76,7 @@ public class zad1_07 {
 			for(int i=0;i<LEN;i++){if(!mask[i]){isAnagram = false; break;}}
 			
 			if(isAnagram)JOptionPane.showMessageDialog(null, "The word IS an anagram");
-			else if(word_1.length()!=word_2.length()){JOptionPane.showMessageDialog(null, "The word is NOT an anagram");}
+			else {JOptionPane.showMessageDialog(null, "The word is NOT an anagram");}
 		}
 		
 
