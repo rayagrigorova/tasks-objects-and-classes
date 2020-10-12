@@ -1,4 +1,4 @@
-package edu.smg;
+/*package edu.smg;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -69,3 +69,4 @@ public class arrays05 {
 	}
 
 }
+*/
