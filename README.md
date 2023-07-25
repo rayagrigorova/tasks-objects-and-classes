@@ -1,8 +1,8 @@
-## Tasks
+# Tasks
 
-### Tasks 06
+## Tasks 06
 
-#### 6.1 Color Range
+### 6.1 Color Range
 
 Write an interactive Java program, **ColorRange.java**, which when given a wavelength in nanometers will return the corresponding color in the visible spectrum.
 
@@ -21,14 +21,14 @@ Write an interactive Java program, **ColorRange.java**, which when given a wavel
      The entered wavelength is not a part of the visible spectrum
 
 
-#### 6.2 Multi Planetary Weight
+### 6.2 Multi Planetary Weight
 
 Write a Java program to do the following that determines your weight on another planet. The program should ask
 for the user's weight on Earth, then present a menu of the other planets in our solar system. The user should
 choose one of the planets from the menu. The program should display the phrase like the following: “Your weight on Mars is 55 kg.”
 
 
-#### 6.3 Final exam excuse
+### 6.3 Final exam excuse
 
 A professor in college will allow a student to be excused from the final exam if either of the following is true:
 • They have a 90% average or higher in the class and have missed 3 or less class lectures.
@@ -67,7 +67,7 @@ public class FinalExam {
 
 ```
 
-#### 6.4 Paint
+### 6.4 Paint
 
 Write a program that calculates the number of buckets of paint to use for a room and the optimal number of cans to
 purchase.
@@ -76,4 +76,41 @@ paint the walls and the ceiling but not the floor. There are no windows or skyli
 size buckets of paint.
 • 5-liter bucket costs $15 each and covers 140 square meters.
 • 1-liter bucket costs $4 and covers 30 square meters.
+
+## Tasks 07
+
+### Anagrams
+An anagram is a word or a phrase made by transposing the letters of another word or phrase; for example, "parliament" is an anagram of "partial men" and "software" is an anagram of "swear oft." Write a program that figures out whether one string is an anagram of another string. The program should ignore white space and punctuation.
+
+### Tuition calculator
+Suppose that the tuition for a university is $10,000 this year and increases 6% every year. In one year, the tuition will be $10,600. Write a program that computes the tuition in ten years and the total cost of four years’ worth of tuition after the tenth year.
+
+### Number pyramid
+
+Write a program that prompts the user to enter an integer from 1 to 15 and displays a pyramid, as shown in the following sample run:
+
+```
+Enter the number of lines: 7
+7 6 5 4 3 2 1 2 3 4 5 6 7
+6 5 4 3 2 1 2 3 4 5 6
+5 4 3 2 1 2 3 4 5
+4 3 2 1 2 3 4
+3 2 1 2 3
+2 1 2
+1
+```
+
+### Star pattern 
+
+Use nested loops that display the following pattern:
+ \* \* \* \* \* \* \*
+  \* \* \* \* \* \*
+     \* \* \* \* \*
+       \* \* \* \*
+         \* \* \*
+           \* \*
+             \*
+
+
+
 
