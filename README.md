@@ -1,5 +1,7 @@
 # Tasks
 
+
+
 ## Tasks 06
 
 ### 6.1 Color Range
@@ -103,6 +105,7 @@ Enter the number of lines: 7
 ### Star pattern 
 
 Use nested loops that display the following pattern:  
+
  \* \* \* \* \* \* \*  
   \* \* \* \* \* \*  
      \* \* \* \* \*  
