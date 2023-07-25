@@ -102,7 +102,7 @@ Enter the number of lines: 7
 
 ### Star pattern 
 
-Use nested loops that display the following pattern:
+Use nested loops that display the following pattern:  
  \* \* \* \* \* \* \*  
   \* \* \* \* \* \*  
      \* \* \* \* \*  
